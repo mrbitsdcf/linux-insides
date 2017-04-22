@@ -37,7 +37,15 @@ Fique à vontade para submeter issues ou pull requests caso você encontre algum
 
 ![image](http://oi58.tinypic.com/23upobq.jpg)
 
-Author
----------------
+Autores
+-------
 
 [@0xAX](https://twitter.com/0xAX)
+[MrBiTs](https://github.com/mrbitsdcf)
+
+Notas do tradutor
+-----------------
+
+Essa tradução, embora subjetiva, foi feita com o maior esforço de que seja a mais fiel possível às idéias e tecnicidades conduzidas pelo autor.
+
+Se você encontrar uma frase ou palavra que considera que está mal traduzida ou algum trecho onde perdeu-se o sentido original ou crê que possa melhorar algo, não exite em fazer as mudanças e submeter um pull-request.
