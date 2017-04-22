@@ -1,33 +1,34 @@
-Contributing
+Como contribuir
 ================================================================================
 
-If you want to contribute to [linux-insides](https://github.com/0xAX/linux-insides), please follow these simple rules:
+Se você quer contribuir com  [linux-insides](https://github.com/0xAX/linux-insides), por favor siga essas regras simples:
 
-1. Press the fork button:
+1. Clique no botão de fork:
 
     ![fork](http://oi58.tinypic.com/jj2trm.jpg)
 
-2. Clone the repository from your account with:
+2. Clone o repositório de sua conta com:
 
     ```
     git clone git@github.com:your_github_username/linux-insides.git
     ```
 
-3. Create a new branch with:
+3. Crie um novo branch com:
 
     ```
     git checkout -b "linux-bootstrap-1-fix"
     ```
-    You can name it however you want.
+    Você pode chamá-lo do que quiser.
 
-4. Make your changes.
+4. Faça suas modificações.
 
-5. Don't forget to add yourself in `contributors.md`.
+5. Não se esqueça de incluir-se no `contributors.md`.
 
-6. Commit and push your changes, then make a pull request from Github.
+6. Commit e push suas modificações e então submeta um pull request no Github.
 
-**IMPORTANT**
 
-Please, don't forget to update your fork. While you made your changes, the content of the `master` branch can change because other pull requests were merged and it can create conflicts. This is why you have to rebase on `master` every time before pushing your changes and check that your branch doesn't have any conflicts with `master`.
+**IMPORTANTE**
 
-Thank you.
+Por favor, não se esqueça de atualizar seu fork. Enquanto você faz suas mudanças o conteúdo do branch `master` pode mudar por causa de outros pull requests que foram associados a ele e isso pode gerar conflitos. É por isso que você deve fazer rebase no `master` toda vez que for fazer um push das suas mudanças e verificar que seu branch não tem conflitos com o `master`.
+
+Obrigado.
